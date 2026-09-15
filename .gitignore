@@ -1,0 +1,8 @@
+build/
+build-*/
+install/
+.cache/
+compile_commands.json
+__pycache__/
+*.pyc
+.claude
